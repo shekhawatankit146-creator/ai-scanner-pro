@@ -1,0 +1,5 @@
+{
+  "name": "DocScan AI",
+  "description": "Smart AI-powered document scanner and text extractor. Convert photos to editable text and tables instantly.",
+  "requestFramePermissions": ["camera"]
+}
